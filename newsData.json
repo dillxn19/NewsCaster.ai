@@ -1,0 +1,56 @@
+[
+    {
+      "id": "sf-tech",
+      "location": "San Francisco, CA",
+      "topic": "Tech",
+      "articles": [
+        {
+          "headline": "Nvidia Signs Massive Lease in SoMa",
+          "summary": "Nvidia has officially signed a lease for 200,000 square feet of office space in the South of Market district, signaling a major return to in-person work. The GPU giant plans to house 500 new AI researchers there by Q3, defying the remote-work trend that has left downtown SF empty."
+        },
+        {
+          "headline": "Perplexity AI Valuation Hits $9 Billion",
+          "summary": "San Francisco-based search startup Perplexity AI has closed a new funding round led by Jeff Bezos, valuing the company at $9B. However, critics at the 'Cerebral Valley' summit called out the company for copyright issues, sparking a heated debate on the future of LLM training data."
+        },
+        {
+          "headline": "Waymo Expands Highway Testing to 101",
+          "summary": "Regulators have granted Waymo permission to test fully driverless robotaxis on Highway 101 during rush hour. Locals are expressing concern about potential gridlock, though Waymo claims their new 'Aggressive Merge' model is safer than human drivers."
+        },
+        {
+          "headline": "OpenAI Dev Day Announces 'GPT-5 Preview'",
+          "summary": "Sam Altman took the stage at the Moscone Center to tease 'GPT-5 Preview,' claiming it achieves PhD-level reasoning. The announcement caused a frenzy in the Mission district, with VC investment in wrapper-startups dropping 40% overnight as the new model threatens to make them obsolete."
+        },
+        {
+          "headline": "Tech Bros Fleeing to 'Crypto Island'",
+          "summary": "A viral rumor suggests a group of disenfranchised crypto founders are pooling funds to buy a private island off the coast of Marin. The project, dubbed 'Dao-topia,' aims to be a regulation-free zone for blockchain experiments, though local fishermen are already protesting."
+        }
+      ]
+    },
+    {
+      "id": "wi-sports",
+      "location": "Madison, WI",
+      "topic": "Sports",
+      "articles": [
+        {
+          "headline": "Packers Clinch Playoff Spot in Overtime",
+          "summary": "Jordan Love threw a 40-yard hail mary to Christian Watson in overtime to defeat the Bears 27-24 at Lambeau Field. The victory secures a Wild Card spot for Green Bay, sending the frozen crowd into hysterics despite the -10 degree wind chill."
+        },
+        {
+          "headline": "Badgers Basketball Upsets #1 Purdue",
+          "summary": "In a shocker at the Kohl Center, the unranked Wisconsin Badgers took down top-seeded Purdue. Chucky Hepburn scored 22 points, and the student section stormed the court, resulting in a $50,000 fine for the university that the AD called 'totally worth it.'"
+        },
+        {
+          "headline": "Brewers Trade Rumors Heat Up",
+          "summary": "Sources say the Milwaukee Brewers are in late-stage talks to trade their star pitcher for a package of prospects. Fans are venting frustration on social media, accusing ownership of cutting costs right as the team looked ready for a World Series run."
+        },
+        {
+          "headline": "Women's Hockey Team remains Undefeated",
+          "summary": "The Wisconsin Women's Hockey team continues their historic run, shutting out Minnesota 4-0. They remain the only undefeated team in the NCAA this season, with goalie Ava McNaughton posting her 8th shutout of the year."
+        },
+        {
+          "headline": "Camp Randall Renovation Delays",
+          "summary": "The highly anticipated renovation of the south end zone at Camp Randall Stadium has been delayed due to supply chain issues with the heated seating. Athletic Director Chris McIntosh assured fans the 'Jump Around' structural integrity remains 100% safe."
+        }
+      ]
+    }
+  ]
